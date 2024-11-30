@@ -77,9 +77,11 @@ const HomePage = () => {
 const contacts = [
   {
     email: "jonibek@example.com",
-    name: "jonibek",
     _id: 1,
     avatar: "https://github.com/shadcn.png",
+    firstName: "Jonibek",
+    lastName: "Munirov",
+    bio: "lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit",
   },
   { email: "amile@example.com", name: "Amile", _id: 2 },
   { email: "Bexruz@example.com", name: "jonibek", _id: 3 },
